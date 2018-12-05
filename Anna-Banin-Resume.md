@@ -3,6 +3,7 @@
 4451 146th Ave SE, Bellevue, WA, 98006
 (747) 226-4628 
  [anna.banin@gmail.com](mailto:anna.banin@gmail.com "email")
+
 ##Software Engineer
 ----
 ###Profile
@@ -30,6 +31,7 @@
 |12/01/2005-11/1/2016|IT Consultant|Celesta Financial Inc., Toronto, Canada|
 |12/01/2002-6/30/2007|Insurance/Investment, Agent Support|Celesta Financial Inc., Toronto, Canada|
 |01/01/1996-05/01/2002|Software QA|Ministry of Power and Fuel of Ukraine, Kyiv|
+
 ###Education
 B.Sc. in Computer Science
 *National Technical University of Ukraine "KPI", Kyiv, Ukraine, 1996*
@@ -43,8 +45,10 @@ B.Sc. in Computer Science
 |2007|Technical Communication: Technical Writing and Analysis|	George Brown College, Toronto, Canada
 |2006|Investment Funds in Canada (IFC)|CSI, Toronto, Canada
 |2005|Life License Qualification Program LLQP Full Version|Advocis, Toronto Canada
+
 ###References
 *Available upon request* 
+
 ##Professional Experience
 ----
 ####Software Engineer at Edge Engineering (Performance)
@@ -76,7 +80,7 @@ Client: Microsoft Universal Store
 - Data integration into the existing WEB UI solution (APS.NET MVC 5) (service and client side)
 ####Owner, Marketing, Product support
 [Centauri Business Group Inc.](http://c-bg.com, "CBG Inc."): Management System Professionals Support
-*04/09/2007 - present*
+*04/09/2007 - Present*
 >**Duties**:
 - Responsible for customer relations and global marketing. 
 - Ensure constant focus on delivering exceptional user experience and customer-driven development of product and services.
@@ -114,7 +118,7 @@ Client: Microsoft Universal Store
 
 ####Analyst / QA, Contractor, Remote	
 StratIT: Software Development and System Integration; Montreal, Canada
-1/11/2007-Present
+1/11/2007-11/01/2016
 >**Duties**:
 - Working with business owners to gather and analyze business data and processes;
 - Creating structured technical documentation for the in-house software systems;
@@ -126,7 +130,7 @@ StratIT: Software Development and System Integration; Montreal, Canada
 
 >>**Client**: [SpaceX](http://spacex.com)
 *Space Exploration Technologies Corporation is an American aerospace manufacturer and space transport services company*
-**Dates**: 01/01/2013-Present
+**Dates**: 01/01/2013-11/01/2016
 **Projects:** Various in-house business applications 
 including warehouse and part maintenance, document (financial and HR) workflow reporting systems, restaurant, internal training monitoring systems.
 **Responsibilities:**
