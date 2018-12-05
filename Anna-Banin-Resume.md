@@ -1,8 +1,8 @@
 
 **Anna Banin**
 4451 146th Ave SE, Bellevue, WA, 98006
-(747) 226-4628 
- [anna.banin@gmail.com](mailto:anna.banin@gmail.com "email")
+(747) 226-4628
+[anna.banin@gmail.com](mailto:anna.banin@gmail.com "email")
 
 ##Software Engineer
 ----
@@ -33,25 +33,30 @@
 |01/01/1996-05/01/2002|Software QA|Ministry of Power and Fuel of Ukraine, Kyiv|
 
 ###Education
+
 B.Sc. in Computer Science
+
 *National Technical University of Ukraine "KPI", Kyiv, Ukraine, 1996*
+
 ###Courses and Certification
-|date|title|provider
-|----|---------|-------
-|2015|ISO 9001:2015 QMS Transition Workshop|CBG Inc.
-|2013|Project Management (ISO 21500:2012)|CBG Inc.
-|2010|Social Responsibility and ISO 26000:2010|CBG Inc.
-|2009|ISO 9004:2009-Fundamentals of Business Sustainability|CBG Inc.
-|2007|Technical Communication: Technical Writing and Analysis|	George Brown College, Toronto, Canada
-|2006|Investment Funds in Canada (IFC)|CSI, Toronto, Canada
-|2005|Life License Qualification Program LLQP Full Version|Advocis, Toronto Canada
+|date|title|provider|
+|----|---------|-------|
+|2015|ISO 9001:2015 QMS Transition Workshop|CBG Inc.|
+|2013|Project Management (ISO 21500:2012)|CBG Inc.|
+|2010|Social Responsibility and ISO 26000:2010|CBG Inc.|
+|2009|ISO 9004:2009-Fundamentals of Business Sustainability|CBG Inc.|
+|2007|Technical Communication: Technical Writing and Analysis|	George Brown College, Toronto, Canada|
+|2006|Investment Funds in Canada (IFC)|CSI, Toronto, Canada|
+|2005|Life License Qualification Program LLQP Full Version|Advocis, Toronto Canada|
 
 ###References
+
 *Available upon request* 
 
 ##Professional Experience
 ----
 ####Software Engineer at Edge Engineering (Performance)
+
 *07/01/2018-Present*
 >**Duties**: 
 ####Software Engineer at Webplatfrom Quality RnD (Power, Performance, Responsiveness)
