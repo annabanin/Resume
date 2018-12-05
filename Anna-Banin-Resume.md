@@ -39,6 +39,7 @@ B.Sc. in Computer Science
 *National Technical University of Ukraine "KPI", Kyiv, Ukraine, 1996*
 
 ###Courses and Certification
+
 |date|title|provider|
 |----|---------|-------|
 |2015|ISO 9001:2015 QMS Transition Workshop|CBG Inc.|
