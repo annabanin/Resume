@@ -21,9 +21,11 @@
 ###Work History
 
 |date|job title|company
-|----|---------|-------
-|11/01/2016-03/31/2017|Software development engineer, InConsulting Inc., Redmond, WA, USA
-|04/09/2007-Present|Owner, Training and Marketing|Centauri Business Group Inc., Bellevue, WA, USA
+|----|---------|-------|
+|07/01/2018-Present|Software engineer|Edge Engineering, Microsoft Inc., Redmond, WA, USA|
+|06/16/2017-07/01/2018|Software engineer|WPT Quality RnD, Microsoft Inc., Redmond, WA, USA|
+|11/01/2016-03/31/2017|Software development engineer|InConsulting Inc., Redmond, WA, USA|
+|04/09/2007-Present|Owner, Training and Marketing|Centauri Business Group Inc., Bellevue, WA, USA|
 |11/01/2007-11/1/2016|Consultant - Analyst /QA| StratIT Inc., Montreal, Canada| 
 |12/01/2005-11/1/2016|IT Consultant|Celesta Financial Inc., Toronto, Canada|
 |12/01/2002-6/30/2007|Insurance/Investment, Agent Support|Celesta Financial Inc., Toronto, Canada|
@@ -45,6 +47,18 @@ B.Sc. in Computer Science
 *Available upon request* 
 ##Professional Experience
 ----
+####Software Engineer at Edge Engineering (Performance)
+*07/01/2018-Present*
+>**Duties**: 
+####Software Engineer at Webplatfrom Quality RnD (Power, Performance, Responsiveness)
+*06/16/2017-07/01/2011*
+>**Duties**: 
+- monitor power lab health (WTT, Atlas Studio);
+- build and analyze web browser power measuring scenarios (Browser efficiency test (BET), WebDriver, C#);
+- collect and analyze E3 power telemtry data (Scope, xFlow, DataGrid); 
+- build web browser power and energy consumption per domain/url/service worker PowerBi reports; 
+- collect data and create competitive power consumption report for modern browsers;
+- work with Data Science engineers on data varience reduction.
 ####Software Engineer/Feature owner
 Client: Microsoft Universal Store
 *11/1/2016-03/31/2017*
