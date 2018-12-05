@@ -3,7 +3,7 @@
 4451 146th Ave SE, Bellevue, WA, 98006
 (747) 226-4628 
  [anna.banin@gmail.com](mailto:anna.banin@gmail.com "email")
-##Quality Assurance/Analyst
+##Software Engineer
 ----
 ###Profile
 * 16+ years of experience in data and processes analysis, training, documentation and testing
@@ -14,17 +14,18 @@
 
 > ###Technical Summary
 * Platforms:	Microsoft development platform
-* Languages/ Databases:	C#, CSS, XML/XSLT, UML, MS SQL
-* Development Tools:	VS 2015/2012, MS SQL Server Management Studio, MS Office/VBA 
-* Supporting Tools: Remedy, Enterprise Architect, MS Visio, MS Office
+* Languages/ Databases:	C#, CSS, XML/XSLT, UML, MS SQL, Azure CosmosDB
+* Development Tools:	VS 2017/2015, VS Code, MS SQL Server Management Studio, MS Office/VBA 
+* Supporting Tools: GIT, VSO, Enterprise Architect, MS Visio, MS Office
 
 ###Work History
 
 |date|job title|company
 |----|---------|-------
+|11/01/2016-03/31/2017|Software development engineer, InConsulting Inc., Redmond, WA, USA
 |04/09/2007-Present|Owner, Training and Marketing|Centauri Business Group Inc., Bellevue, WA, USA
-|11/01/2007-Present|Consultant - Analyst /QA| StratIT Inc., Montreal, Canada| 
-|12/01/2005-Present|IT Consultant|Celesta Financial Inc., Toronto, Canada|
+|11/01/2007-11/1/2016|Consultant - Analyst /QA| StratIT Inc., Montreal, Canada| 
+|12/01/2005-11/1/2016|IT Consultant|Celesta Financial Inc., Toronto, Canada|
 |12/01/2002-6/30/2007|Insurance/Investment, Agent Support|Celesta Financial Inc., Toronto, Canada|
 |01/01/1996-05/01/2002|Software QA|Ministry of Power and Fuel of Ukraine, Kyiv|
 ###Education
@@ -44,7 +45,22 @@ B.Sc. in Computer Science
 *Available upon request* 
 ##Professional Experience
 ----
-####Owner, Training and Marketing
+####Software Engineer/Feature owner
+Client: Microsoft Universal Store
+*11/1/2016-03/31/2017*
+>**Duties**: 
+- Analyze existing windows error reporting data concerning stack diversity within the failures
+- Choose visual for the stack to failure representation
+- Create a prototype proving the concept of stack diversity based on one application
+- Integrate the solution into the existing window error reporting client portal 
+>>**Project**: Stack Analysis Distribution 
+*Software and Technologies used: Visual Studio 2015, C#, ASP .NET MVC, Scope, Azure SQL, xFlow, DataGrid, PowerBI, JavaScript* 
+**Responsibilities**: 
+- End-to-end data analysis and processing (Cosmos Asimov, Scope, xFlow, DataGrid, Azure SQL)
+- Telemetry data reporting (Power BI)
+- Build oData API for the stack analysis distribution data
+- Data integration into the existing WEB UI solution (APS.NET MVC 5) (service and client side)
+####Owner, Marketing, Product support
 [Centauri Business Group Inc.](http://c-bg.com, "CBG Inc."): Management System Professionals Support
 *04/09/2007 - present*
 >**Duties**:
