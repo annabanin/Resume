@@ -4,9 +4,9 @@
 (747) 226-4628
 [anna.banin@gmail.com](mailto:anna.banin@gmail.com "email")
 
-##Software Engineer
+## Software Engineer
 ----
-###Profile
+### Profile
 * 16+ years of experience in data and processes analysis, training, documentation and testing
 * 7+ years of quality system management systems support
 * Clear understanding of software development process, practices, methodologies and design patterns
