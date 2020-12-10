@@ -60,7 +60,7 @@ B.Sc. in Computer Science
 
 *07/01/2018-Present*
 >**Duties**: 
-####Software Engineer at Webplatfrom Quality RnD (Power, Performance, Responsiveness)
+#### Software Engineer at Webplatfrom Quality RnD (Power, Performance, Responsiveness)
 *06/16/2017-07/01/2011*
 >**Duties**: 
 - monitor power lab health (WTT, Atlas Studio);
@@ -69,7 +69,7 @@ B.Sc. in Computer Science
 - build web browser power and energy consumption per domain/url/service worker PowerBi reports; 
 - collect data and create competitive power consumption report for modern browsers;
 - work with Data Science engineers on data varience reduction.
-####Software Engineer/Feature owner
+#### Software Engineer/Feature owner
 Client: Microsoft Universal Store
 *11/1/2016-03/31/2017*
 >**Duties**: 
@@ -122,7 +122,7 @@ Client: Microsoft Universal Store
 - Marketing and social media 
 - Analytics and reports
 
-####Analyst / QA, Contractor, Remote	
+#### Analyst / QA, Contractor, Remote	
 StratIT: Software Development and System Integration; Montreal, Canada
 1/11/2007-11/01/2016
 >**Duties**:
@@ -176,9 +176,9 @@ including warehouse and part maintenance, document (financial and HR) workflow r
 - Tested the System and followed up on the user feedback;
 - Updated the database as per Business Owner’s request.
 
-##Volunteering
+## Volunteering
 ----
-####Volunteer Webmaster
+#### Volunteer Webmaster
 [Greater Seattle Cares](http://greaterseattlecares.org, "gsc"): *a faith-based, non-discriminatory non-profit organization that provides a vehicle for local communities to connect with homeless encampments in Western Washington for the provision of the residents’ daily needs and to facilitate their transition to independent living.*
 *11/01/2015 - present*
 
