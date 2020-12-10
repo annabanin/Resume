@@ -13,13 +13,13 @@
 * Goal oriented, strong interpersonal and communication skills, ability to multitask
 * Strong ability to prioritize and deliver on time
 
-> ###Technical Summary
+> ### Technical Summary
 * Platforms:	Microsoft development platform
 * Languages/ Databases:	C#, CSS, XML/XSLT, UML, MS SQL, Azure CosmosDB
 * Development Tools:	VS 2017/2015, VS Code, MS SQL Server Management Studio, MS Office/VBA 
 * Supporting Tools: GIT, VSO, Enterprise Architect, MS Visio, MS Office
 
-###Work History
+### Work History
 
 |date|job title|company
 |----|---------|-------|
@@ -32,13 +32,13 @@
 |12/01/2002-6/30/2007|Insurance/Investment, Agent Support|Celesta Financial Inc., Toronto, Canada|
 |01/01/1996-05/01/2002|Software QA|Ministry of Power and Fuel of Ukraine, Kyiv|
 
-###Education
+### Education
 
 B.Sc. in Computer Science
 
 *National Technical University of Ukraine "KPI", Kyiv, Ukraine, 1996*
 
-###Courses and Certification
+### Courses and Certification
 
 |date|title|provider|
 |----|---------|-------|
@@ -54,7 +54,7 @@ B.Sc. in Computer Science
 
 *Available upon request* 
 
-##Professional Experience
+## Professional Experience
 ----
 ####Software Engineer at Edge Engineering (Performance)
 
